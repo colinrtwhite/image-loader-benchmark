@@ -18,7 +18,7 @@ object Library {
 
     // IMAGE LOADERS
 
-    const val COIL = "io.coil-kt:coil-base:1.0.0-SNAPSHOT"
+    const val COIL = "io.coil-kt:coil-base:1.0.0"
 
     private const val FRESCO_VERSION = "2.3.0"
     const val FRESCO = "com.facebook.fresco:fresco:$FRESCO_VERSION"
